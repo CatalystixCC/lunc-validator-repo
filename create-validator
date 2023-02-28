@@ -1,0 +1,14 @@
+... tx staking create-validator \
+  --pubkey $(... tendermint show-validator) \
+  --moniker "CatalystiX" \
+  --details "CatalystiX - Tech Savvy and Crypto Enthusiast - Trusted Staking Service Validator" \
+  --identity "7E15D5159FC7EB06" \
+  --website "https://catalystix.cc" \
+  --security-contact "hello@catalystix.cc" \
+  --min-self-delegation 1 \
+  --commission-rate "0.05" \
+  --commission-max-rate "0.10" \
+  --commission-max-change-rate "0.01" \
+  --amount 1000000stake \
+  --from walletmars \
+  --chain-id ... \ 
