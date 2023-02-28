@@ -9,6 +9,6 @@
   --commission-rate "0.05" \
   --commission-max-rate "0.10" \
   --commission-max-change-rate "0.01" \
-  --amount 1000000stake \
+  --amount 100000stake \
   --from walletmars \
   --chain-id ... \ 
