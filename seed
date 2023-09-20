@@ -1,0 +1,6 @@
+For eu and asia location use in config.toml: 
+# Comma separated list of seed nodes to connect to
+seeds = "e1b058e5cfa2b836ddaa496b10911da62dcf182e@terra-seed-de.allnodes.me:26656"
+For south or north america location use in config.toml:
+# Comma separated list of seed nodes to connect to
+seeds = "e726816f42831689eab9378d5d577f1d06d25716@terra-seed-us.allnodes.me:26656"
